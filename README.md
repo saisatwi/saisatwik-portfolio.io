@@ -57,7 +57,7 @@ Built a **fully local, always-ready voice assistant** that works inside VS Code 
 - **100% offline** — zero cloud, zero cost, zero data leak
 
 **Tech Stack:** Python • Ollama • Llama3.1:8b • LLaVA • faster-whisper • pyttsx3 • pyautogui • Windows API  
-[GitHub Repository](https://github.com/saisatwi/mydatawhisperer) • [Live Demo Video (coming soon)](#)
+[GitHub Repository](https://github.com/saisatwi/mydatawhisperer) 
 
 ---
 
