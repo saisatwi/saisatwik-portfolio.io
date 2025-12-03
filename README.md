@@ -1,86 +1,87 @@
-# Sai Satwik STK  
-**Ex-Amazon ML Data Associate • Nike TRON Computer Vision • 98.7% Accuracy on 100K+ frames**  
-**1.3+ years turning chaos into clean training data for production AI models**  
-**Built a fully offline JARVIS-style AI assistant that works faster than most cloud APIs**
+# Sai Satwik STK – Data Analyst & AI/ML Engineer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=githubpages)](https://saisatwi.github.io)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sai-satwik-stk-49758433a)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/saisatwi)  
-[![Resume](https://img.shields.io/badge/Resume-Download-green?style=for-the-badge)](https://github.com/saisatwi/saisatwi.github.io/raw/main/Sai_AI_ML_Resume.pdf)
+[LinkedIn](https://linkedin.com/in/sai-satwik-stk-49758433a) • [GitHub](https://github.com/saisatwi) • [Download Resume (PDF)](Sai_Data_ML_Resume.pdf)
 
 ---
 
-### TL;DR – Why You Should Hire Me Right Now
-- **Amazon pedigree** – worked on live Nike computer-vision models  
-- **98.7% annotation accuracy** across 100K+ production frames  
-- **30% automation wins** using Python + Excel macros  
-- **Built a 100% offline JARVIS** that can read your screen and fix your SQL in 2 seconds  
-- Immediate joiner • Open to Bangalore / Hyderabad / Pune / Gurgaon / Chennai
+## Professional Summary
+
+Detail-oriented **Data Associate & ML Data Specialist** with **1.3+ years** experience in data analytics, ML data quality, KPI dashboard development, reporting automation, and process improvement at Amazon (Nike TRON Computer Vision project). Delivered **98%+ accuracy** across 100K+ annotated image/video frames, improved data consistency by 20%, automated reporting workflows saving 25–30% manual effort, and built KPI dashboards boosting leadership visibility by 40%. Strong skills in **SQL, Python (Pandas, NumPy), Power BI, Amazon QuickSight, Advanced Excel**, ETL fundamentals, S3 data management, and workflow optimization.
 
 ---
 
-### Featured Project (The One That Makes Recruiters Go “WTF, this guy is insane”)
+## Core Skills
 
-#### Sana – Offline Voice-Controlled AI Assistant (2025)  
-**Fully local JARVIS that works inside VS Code, Excel, Notion – anywhere**
-
-- Wake-word: Just press **Caps Lock** (no admin rights needed)  
-- Real-time pipeline: Speech → Screen OCR → Llama 3.1 8B + LLaVA → Answer → Types directly  
-- Latency: **~2–3 seconds end-to-end on a normal laptop CPU**  
-- Does: Auto-fixes SQL, cleans Excel tables from screenshots, launches apps, writes emails  
-- **Zero cloud • Zero cost • Zero data leak**
-
-**Tech Stack:** Python • Ollama • Llama3.1:8b • LLaVA • faster-whisper • pyautogui • Windows API  
-[**GitHub → mydatawhisperer/Sana**](https://github.com/saisatwi/mydatawhisperer) | Live demo video coming soon
-
-> “I literally talk to my laptop and it does the job. Recruiters lose their minds when I show this live.”
+- **Data Analysis:** SQL (Joins, CTEs, Window Functions), Python (Pandas, NumPy), ETL, Data Validation, RCA  
+- **Visualization & Reporting:** Power BI, Amazon QuickSight, Advanced Excel, Dashboard Development  
+- **AI/ML Exposure:** Computer Vision Training Data, Image/Video Annotation, Data Preprocessing, Python Automation for ML Pipelines  
+- **Workflow Automation:** Automated reporting, KPI dashboards, S3 dataset management  
 
 ---
 
-### Amazon – ML Data Associate (Mar 2025 – Oct 2025)  
-**Nike TRON – Production Computer Vision Models**
+## Professional Experience
 
-- Delivered **98.7% labeling accuracy** on **100K+** image/video frames  
-- Built & automated **20+ KPI dashboards** in Amazon QuickSight → adopted team-wide  
-- Reduced manual reporting effort by **30%** using Python + Excel macros  
-- Performed RCA → cut recurring errors by **18%**  
-- Managed dataset versioning on S3 across multiple retraining cycles  
+### Data Analyst & ML Data Associate – Data Quality & Analytics
+**Amazon, Hyderabad (Remote)** | Mar 2025 – Oct 2025  
+**Nike TRON Computer Vision Project**
 
-**Key Deliverable:** Automated Quality Scorecard still used daily by the annotation team
+- Designed & automated 20+ KPI dashboards in Amazon QuickSight (SLA, throughput, accuracy), increasing leadership visibility by 40%.  
+- Maintained **98%+ accuracy** across 100K+ annotated image/video frames used for training production CV models.  
+- Conducted RCA on labeling drifts and quality issues; reduced repeat errors by 12–18%.  
+- Automated scorecards & weekly/monthly reports using Python + Excel macros, saving 25–30% manual time.  
+- Managed dataset versioning on Amazon S3, supporting ML model retraining cycles.  
+- Collaborated with QA, SMEs & PMs to improve annotation guidelines, increasing adherence by 15%.
 
----
+**Key Impact:** Built automated Quality Scorecard + KPI Dashboard adopted across teams • Reduced quality analysis time by 30% using Python automation.
 
-### Narwin International – Executive Business Trainee (Nov 2023 – Apr 2024)  
-- Built Power BI + Excel dashboards → cut reporting time by **20%**  
-- Standardized SOPs → improved onboarding speed by **25%**
+### Executive Business Trainee – Export/Import Operations & Reporting
+**Narwin International Inc., Hyderabad** | Nov 2023 – Apr 2024
 
----
-
-### Tech Arsenal
-**Data & Analytics**  
-SQL (CTEs, Window Functions) • Python (Pandas, NumPy) • Power BI • Amazon QuickSight • Advanced Excel • Power Query  
-
-**AI/ML Exposure**  
-Computer Vision Data Prep • High-Accuracy Annotation • Quality Metrics • Basic Preprocessing • LLM Data Fundamentals  
-
-**Automation & Tools**  
-Python Scripting • Excel Macros • S3 • Git • VS Code • Jupyter
+- Built Excel-based dashboards (Pivot, Power Query, XLOOKUP), improving report turnaround by 20%.  
+- Handled export/import documentation, shipment tracking & compliance checks.  
+- Standardized SOPs & templates, improving onboarding speed by 25%.
 
 ---
 
-### Education
-- Master of Computer Applications (MCA) – Andhra University  
-- B.Sc. Computer Science – Adikavi Nannaya University
+## Featured Projects
+
+### Sana — Offline Voice-Controlled Personal AI Assistant
+**Personal Project • 2025**
+
+Built a **fully local, always-ready voice assistant** that works inside VS Code and any application using Ollama (Llama 3.1 8B + LLaVA), faster-whisper, and pyttsx3.
+
+- Global wake-word using **Caps Lock + Windows API** — activates instantly without admin rights  
+- Real-time **speech-to-text → screen understanding → text-to-speech** pipeline with ~2–3 sec latency on laptop CPU  
+- Multimodal: reads current screen, auto-fixes SQL queries, cleans data tables from screenshots, launches apps via voice  
+- Integrated pyautogui for direct typing; tested with 500+ successful voice commands  
+- **100% offline** — zero cloud, zero cost, zero data leak
+
+**Tech Stack:** Python • Ollama • Llama3.1:8b • LLaVA • faster-whisper • pyttsx3 • pyautogui • Windows API  
+[GitHub Repository](https://github.com/saisatwi/mydatawhisperer) • [Live Demo Video (coming soon)](#)
 
 ---
 
-### Fun Facts (Because Recruiters Read These)
-- I once annotated 100K+ frames with 98.7% accuracy while listening to lo-fi on loop  
-- My offline AI assistant has fixed more SQL queries than most juniors write in a month  
-- Available to start **tomorrow** if the offer is right
+### HF_AD — Health & Finance Analytics Dashboard
+**Personal Project • 2025**
 
-**Open to roles:**  
-Data Analyst • Business Analyst • Junior AI/ML Engineer • MLOps Associate • Technical Analyst  
+Interactive dashboard for health and finance datasets with predictive analytics and KPIs.
 
+- Interactive charts & KPIs: Steps, Sleep, Heart Rate, Income, Expenses  
+- ML: Next-day step prediction using Linear Regression  
+- CSV export, date/category filters, light/dark theme toggle
 
-**Hit me up** – let’s build something insane together!  
+**Tech Stack:** Python (pandas, numpy, scikit-learn), Streamlit, matplotlib, seaborn, plotly  
+[GitHub Repository](https://github.com/saisatwi/HF_AD) • [Live Dashboard](https://hfad-wa5yumpcftkn2bdbnnfxov.streamlit.app)
+
+---
+
+## Education
+
+- Master of Computer Applications (MCA) – Andhra University, Visakhapatnam  
+- B.Sc. (Computer Science) – Adikavi Nannaya University, Rajahmundry  
+
+---
+
+## Resume
+
+Download my **[Resume PDF](Sai_Data_ML_Resume.pdf)** for detailed experience, projects, and skills.
